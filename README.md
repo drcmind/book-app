@@ -29,4 +29,4 @@ Notre projet a une structure simple constituée de la manière suivante :
     - *create.php* : C'est la page qui se charge de l'affichage du formulaire d'ajout d'un nouveau livre.
     - *edit.php* : C'est la page qui se charge de l'affichage du formulaire de modification d'un livre.
 ## Voir la vidéo complète
-`video: https://www.youtube.com/watch?v=qQJbNhp9cww`
+[Vidéo complète](https://youtu.be/qQJbNhp9cww)
